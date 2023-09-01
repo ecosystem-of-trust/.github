@@ -1,1 +1,12 @@
-organisation readme
+⚠️ *This and all associated organisational repositories are a part of the [Ecosystem of Trust](https://www.gov.uk/government/publications/the-ecosystem-of-trust-evaluation-report-2023) initiative and as such this is all innovation based work and thinking. The EoT initiative in it's current Cabinet Office led form and it's Border Trade Demonstrators will currently run through until the 31st March 2024. This is a 🔒 **private** repository - participants will be invited in. Sensitive documents and information must not be added to the repositories within this Github organisation.
+
+## About
+
+This organisation and it's repositories outline and define elements of the [Ecosystem of Trust](https://www.gov.uk/government/publications/the-ecosystem-of-trust-evaluation-report-2023) and provide a reference for those working with UK Government, third party trade associations and experts, industry and other jurisdictions to co-design, deliver and operationalise elements of it.
+
+EoT stage 1 ended March 2023 and included the publication of a [report](https://www.gov.uk/government/publications/the-ecosystem-of-trust-evaluation-report-2023) which inludes an evaluation and recommendations. Stage two is now in progress and will deliver on the recommendations within the eval report with UK Government, industry and other jurisdictions working together.
+
+## Other links
+
+- [Interoperability Working Group](https://github.com/ecosystem-of-trust-interoperability/interoperability-working-group)
+- [Signals](https://github.com/information-sharing-networks/signals)
