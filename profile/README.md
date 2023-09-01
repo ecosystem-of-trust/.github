@@ -6,6 +6,10 @@ This organisation and it's repositories outline and define elements of the [Ecos
 
 EoT stage 1 ended March 2023 and included the publication of a [report](https://www.gov.uk/government/publications/the-ecosystem-of-trust-evaluation-report-2023) which inludes an evaluation and recommendations. Stage two is now in progress and will deliver on the recommendations within the eval report with UK Government, industry and other jurisdictions working together.
 
+## Getting Started
+
+Design, implementation, delivery, operationalisation and evaluation of the recommendations (and ongoing research) will be undertaken through a number of [Border Trade Demonstrators](https://github.com/ecosystem-of-trust/border-trade-demonstrators/tree/main).
+
 ## Other links
 
 - [Interoperability Working Group](https://github.com/ecosystem-of-trust-interoperability/interoperability-working-group)
