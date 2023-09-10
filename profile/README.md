@@ -6,7 +6,7 @@ This organisation and it's repositories outline and define elements of the [Ecos
 
 EoT stage 1 was the result of a large amount of collaborative work with many contributions made particularly by the private sector (EoT consortia), it ended March 2023 and included the publication of a [report](https://www.gov.uk/government/publications/the-ecosystem-of-trust-evaluation-report-2023) which inludes an evaluation and recommendations. Stage two is now in progress and will deliver on the recommendations within the eval report with UK Government, industry and other jurisdictions working together.
 
-You can find links here to the Border Trade Demonstrator repository and to the Interop Working Group repository.
+You can find links here to the Border Trade Demonstrator repository, Interop Working Group and Signals repositories.
 
 ## Getting Started
 
