@@ -10,7 +10,7 @@ You can find links here to the Border Trade Demonstrator repository, Interop Wor
 
 ## Getting Started
 
-Design, implementation, delivery, operationalisation and evaluation of the recommendations (and ongoing research) will be undertaken through a number of [Border Trade Demonstrators](https://github.com/ecosystem-of-trust/border-trade-demonstrators/tree/main).
+Design, implementation, delivery, operationalisation and evaluation of the recommendations (and ongoing research) will be undertaken through a number of [Border Trade Demonstrators](https://github.com/border-trade-demonstrators).
 
 ## Other links
 
